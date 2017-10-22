@@ -41,6 +41,8 @@ Okay so maybe it wasn't the best, but I tried to style every chart differently a
 One of the biggest flaws of my first examination of Research for Data was that my datasets weren't visualised enough. Using [RawGraphs](http://rawgraphs.io/) to visualize data sets quickly meant that you had to upload a proper data format. I realized that JSON worked better with the datasets I had so I manually changed some of the datasets for my re-examination.
 
 
+## Timesheet
+
 | What I did       | Time spent |
 | ------------- |:-------------:|
 | Tutorials on youtube     | 2 hours |
